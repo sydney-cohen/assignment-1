@@ -1,0 +1,9 @@
+1. mkdir answers
+2. touch answers.txt
+4. /Users/Sydney/GitHub/practice-repo/assignment-1/answers
+5. -a
+6. ls /Users/Sydney/ 
+	(basically just give the path to the directory)
+7. rm is a remove command, and it permanently removes a file from your computer. It is dangerous because unlike putting something in the trash can on your computer, you cannot get it back after you 
+remove it. This could lead to unintended negative consequences if you remove a file accidentally using the autocomplete with tab and it is the wrong one, or if some of your files have similar names 
+and you unintentionally remove the wrong one. It could also be harmful if you think a file is copied or backed up somewhere, but it really isn't.
