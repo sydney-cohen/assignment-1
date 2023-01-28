@@ -12,3 +12,13 @@ and you unintentionally remove the wrong one. It could also be harmful if you th
    nano my_script.sh
 10. chmod 0700 my_script.sh
 11. cd /Users/Sydney/Downloads/assignment-1/data
+12. wc -w `ls -S | head -n 2 | tail -n 1`
+13. for files in *.csv
+> do ~/Github/assignment-1/answers/my_script.sh $files
+> done
+14. mkdir unzipped-files
+for files in ../*.zip
+> do unzip $files
+> done
+15. rm *.zip
+16. cp *200* ~/Github/assignment-1/answers/results
