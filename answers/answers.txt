@@ -7,3 +7,8 @@
 7. rm is a remove command, and it permanently removes a file from your computer. It is dangerous because unlike putting something in the trash can on your computer, you cannot get it back after you 
 remove it. This could lead to unintended negative consequences if you remove a file accidentally using the autocomplete with tab and it is the wrong one, or if some of your files have similar names 
 and you unintentionally remove the wrong one. It could also be harmful if you think a file is copied or backed up somewhere, but it really isn't.
+8. mkdir results
+9. touch my_script.sh
+   nano my_script.sh
+10. chmod 0700 my_script.sh
+11. cd /Users/Sydney/Downloads/assignment-1/data
